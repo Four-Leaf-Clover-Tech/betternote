@@ -41,7 +41,6 @@ BetterNote android app
 
       - [x]  Go through Android Development Basics
       - [x]  Create a clock
-      - [ ]  Learn Android Development Unit 2
 
     - **Web Team**:
 
@@ -50,19 +49,30 @@ BetterNote android app
       - [x]  Basic todo functionality
 
   - **Week 3 Tasks**:
+    **POSTPONED**
+
+  - **Week 4 Tasks**:
 
     - **Android Team**:
 
-      - [ ]  Learn remaining Android Development Unit 2
-      - [ ]  Learn Android Development Unit 3
-      - [ ]  Create a calculator
+      - [x]  Learn Android Development Unit 2
 
     - **Web Team**:
 
-      - [ ]  Add formatting functionality
-        - [ ]  Research on markdown input
-      - [ ]  Key bindings (redo, undo, etc) support
-      - [ ] Add edit option for todo
+      - [x]  Add formatting functionality
+      - [x]  Key bindings (redo, undo, etc) support
+      - [x] Add edit option for todo
+        - [x] strikethrough on checked
+
+  - **Week 5 Tasks**:
+
+    - **Android Team**:
+
+      - [ ]  Learn Android Development Unit 3
+
+    - **Web Team**:
+
+      - [ ]  Research on markdown input
       - [ ] Optimize CSS for todo app
 
 ### Tech Stack
